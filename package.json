@@ -1,0 +1,17 @@
+{
+  "name": "githubscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Nural",
+  "license": "ISC",
+  "dependencies": {
+    "github": "^13.1.0",
+    "node-fetch": "^1.7.3",
+    "slack": "^10.1.1",
+    "slack-node": "^0.1.8"
+  }
+}
