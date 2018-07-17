@@ -9,7 +9,7 @@
   "author": "Oliver Nural",
   "license": "ISC",
   "dependencies": {
-    "github": "^13.1.0",
+    "@octokit/rest": "^15.9.4",
     "node-fetch": "^1.7.3",
     "slack": "^10.1.1",
     "slack-node": "^0.1.8"
